@@ -17,7 +17,7 @@ Fully customizable preview of the URL extracted from the provided text.
 ## Getting Started
 
 ```sh
-yarn add @flyerhq/react-native-link-preview
+yarn add git+ssh://git@github.com/sfkaos/react-native-link-preview.git
 ```
 
 ## Usage
